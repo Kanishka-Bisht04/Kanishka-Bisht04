@@ -112,14 +112,17 @@ Soft but strong 💗
 ## 💗 GitHub Aesthetic Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kanishka-Bisht04/Kanishka-Bisht04/main/assets/github-stats.png" />
+  <img src="https://img.shields.io/github/followers/Kanishka-Bisht04?style=for-the-badge&color=F5A7C6&label=Followers" />
+  <img src="https://img.shields.io/github/stars/Kanishka-Bisht04?style=for-the-badge&color=CDB4DB&label=Stars" />
+  <img src="https://img.shields.io/github/repos/Kanishka-Bisht04?style=for-the-badge&color=A5B4FC&label=Public%20Repos" />
 </p>
 
+---
 
 ## 🌸 Languages I Use
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kanishka-Bisht04/Kanishka-Bisht04/main/assets/languages.png" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,html,css,js&theme=light" />
 </p>
 
 
