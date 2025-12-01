@@ -75,7 +75,7 @@ Soft but strong 💗
 ## 🐍 Contribution Snake (gracefully slithering through bugs)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-fixed.svg">
+  <img src="https://raw.githubusercontent.com/Platane/snk/main/assets/github-contribution-grid-snake.svg">
 </p>
 
 
@@ -102,10 +102,7 @@ Soft but strong 💗
 ## 💗 GitHub Aesthetic Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Kanishka-Bisht04&show_icons=true&hide_border=true&bg_color=0F172A&title_color=F5A7C6&icon_color=CDB4DB&text_color=E5E7EB"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kanishka-Bisht04&show_icons=true&hide_border=true&bg_color=0F172A&title_color=F5A7C6&icon_color=CDB4DB&text_color=E5E7EB" />
 </p>
 
 ---
@@ -113,10 +110,7 @@ Soft but strong 💗
 ## 🌸 Languages I Use
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishka-Bisht04&layout=compact&hide_border=true&bg_color=0F172A&title_color=A5B4FC&text_color=E5E7EB"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kanishka-Bisht04&layout=compact&hide_border=true&bg_color=0F172A&title_color=A5B4FC&text_color=E5E7EB" />
 </p>
 
 ---
@@ -124,18 +118,15 @@ Soft but strong 💗
 ## 🌙 Coding Graph
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Kanishka-Bisht04&theme=react-dark&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanishka-Bisht04&theme=tokyo-night&hide_border=true" />
 </p>
-
 
 ## 👁 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kanishka-Bisht04&style=flat-square&color=F5A7C6">
+  <img src="https://komarev.com/ghpvc/?username=Kanishka-Bisht04&style=flat-square&color=F5A7C6" />
 </p>
+
 
 ---
 
