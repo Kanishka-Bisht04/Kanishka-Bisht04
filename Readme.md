@@ -118,59 +118,6 @@ Soft but strong 💗
 
 
 ---
-## 📊 GitHub Analytics — Dark Pastel
-
-### ⚡ Aesthetic Status (Badges that Always Work)
-<p align="center">
-  <img src="https://img.shields.io/badge/🔥_Streak-Active-FF9EC4?style=for-the-badge&labelColor=0F172A&color=CDB4DB"><br/>
-  <img src="https://img.shields.io/badge/⚡_Consistency-High-A5B4FC?style=for-the-badge&labelColor=0F172A&color=8EC5FC"><br/>
-  <img src="https://img.shields.io/badge/🚀_Momentum-Growing-F5A7C6?style=for-the-badge&labelColor=0F172A&color=E879F9">
-</p>
-
----
-
-## 📈 GitHub Stats (Card)
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kanishka-Bisht04&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
-
-<!-- If the card above ever fails on your network, swap src with:
-     https://github-readme-stats.vercel.app/api?username=Kanishka-Bisht04&show_icons=true&theme=tokyonight&hide_border=true
--->
-
----
-
-## 🧪 Most Used Languages (Card)
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kanishka-Bisht04&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
-
-<!-- Backup if needed:
-     https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishka-Bisht04&layout=compact&theme=tokyonight&hide_border=true
--->
-
----
-
-## 🔥 Activity Graph
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Kanishka-Bisht04&theme=tokyo-night&hide_border=true"
-  />
-</p>
-
-<!-- Backup (use only if the graph fails):
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph-git-masterrstaa-rickstaa.vercel.app/graph?username=Kanishka-Bisht04&theme=tokyo-night&hide_border=true"
-  />
-</p>
--->
 
 
 ## 🌸 Languages I Use
@@ -184,6 +131,42 @@ Soft but strong 💗
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kanishka-Bisht04&theme=dracula&no-frame=true&row=1&column=6" />
 </p>
+
+## 📊 GitHub Analytics — Glass + Neon
+
+### ⚡ Custom Neon Streak 
+<p align="center">
+  <img src="https://img.shields.io/badge/🔥_Streak-Active-FF47A3?style=for-the-badge&labelColor=0f172a&color=6366f1"><br/>
+  <img src="https://img.shields.io/badge/⚡_Consistency-High-38BDF8?style=for-the-badge&labelColor=0f172a&color=14B8A6"><br/>
+  <img src="https://img.shields.io/badge/🚀_Momentum-Growing-AE7AFF?style=for-the-badge&labelColor=0f172a&color=EC4899">
+</p>
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kanishka-Bisht04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+</p>
+
+<!-- Backup if the card above doesn't load:
+     https://github-readme-stats.vercel.app/api?username=Kanishka-Bisht04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true
+-->
+
+---
+
+## 🧪 Most Used Languages
+<p align="center">
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kanishka-Bisht04&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
+
 
 
 ## 🌙 Coding Graph
