@@ -109,25 +109,19 @@ Soft but strong 💗
 </p>
 
 ---
-
 ## 💗 GitHub Aesthetic Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kanishka-Bisht04&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Kanishka-Bisht04/Kanishka-Bisht04/main/assets/github-stats.png" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kanishka-Bisht04&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🌸 Languages I Use
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishka-Bisht04&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Kanishka-Bisht04/Kanishka-Bisht04/main/assets/languages.png" />
 </p>
----
+
 
 ## 🌙 Coding Graph
 
