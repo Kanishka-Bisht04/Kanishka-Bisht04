@@ -110,19 +110,18 @@ Soft but strong 💗
 
 ---
 
-## 💗 GitHub Aesthetic Stats
-
+## 💖 GitHub Aesthetic Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kanishka-Bisht04&show_icons=true&hide_border=true&bg_color=0F172A&title_color=F5A7C6&icon_color=CDB4DB&text_color=E5E7EB" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heyitzmeaditya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
 </p>
 
 ---
 
 ## 🌸 Languages I Use
-
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kanishka-Bisht04&layout=compact&hide_border=true&bg_color=0F172A&title_color=A5B4FC&text_color=E5E7EB" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitzmeaditya&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
+
 
 ---
 
