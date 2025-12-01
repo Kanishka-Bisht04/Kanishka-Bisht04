@@ -114,8 +114,8 @@ Soft but strong 💗
 <p align="center">
   <img src="https://img.shields.io/github/followers/Kanishka-Bisht04?style=for-the-badge&color=F5A7C6&label=Followers" />
   <img src="https://img.shields.io/github/stars/Kanishka-Bisht04?style=for-the-badge&color=CDB4DB&label=Stars" />
-  <img src="https://img.shields.io/github/repos/Kanishka-Bisht04?style=for-the-badge&color=A5B4FC&label=Public%20Repos" />
 </p>
+
 
 ---
 
