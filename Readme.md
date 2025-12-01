@@ -143,28 +143,20 @@ Soft but strong 💗
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kanishka-Bisht04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-</p>
+## 📊 GitHub Stats
 
-<!-- Backup if the card above doesn't load:
-     https://github-readme-stats.vercel.app/api?username=Kanishka-Bisht04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true
--->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Kanishka-Bisht04?style=for-the-badge&label=Followers&color=F5A7C6" />
+  <img src="https://img.shields.io/github/stars/Kanishka-Bisht04?style=for-the-badge&label=Stars&color=CDB4DB" />
+  <img src="https://img.shields.io/badge/Public%20Repos-View%20Profile-A5B4FC?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🧪 Most Used Languages
+
 <p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kanishka-Bisht04&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Top Languages"
-  />
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,html,css,js&theme=light" />
 </p>
 
 
