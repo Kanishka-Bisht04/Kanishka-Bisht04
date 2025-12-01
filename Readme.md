@@ -110,19 +110,23 @@ Soft but strong 💗
 
 ---
 
-## 💖 GitHub Aesthetic Stats
+## 💗 GitHub Aesthetic Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heyitzmeaditya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=Kanishka-Bisht04&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kanishka-Bisht04&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🌸 Languages I Use
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitzmeaditya&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishka-Bisht04&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-
 ---
 
 ## 🌙 Coding Graph
