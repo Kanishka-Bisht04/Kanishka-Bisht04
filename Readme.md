@@ -73,7 +73,9 @@ kanishka@pinkbytes:~$ mood
 Soft but strong 💗
 ```
 ## 🐍 Contribution Snake (gracefully slithering through bugs)
-<img src="https://raw.githubusercontent.com/Kanishka-Bisht04/Kanishka-Bisht04/output/github-contribution-grid-snake-dark.svg">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+</p>
 
 ### ⏳ View My GitHub Activity by Year
 <p align="center">
