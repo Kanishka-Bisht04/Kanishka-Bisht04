@@ -125,6 +125,12 @@ Soft but strong 💗
   <img src="https://skillicons.dev/icons?i=python,cpp,mysql,html,css,js&theme=light" />
 </p>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kanishka-Bisht04&theme=dracula&no-frame=true&row=1&column=6" />
+</p>
+
 
 ## 🌙 Coding Graph
 
@@ -132,18 +138,7 @@ Soft but strong 💗
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanishka-Bisht04&theme=tokyo-night&hide_border=true" />
 </p>
 
-## 🏆 Achievements & Trophies
 
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Kanishka-Bisht04
-    &theme=onestar
-    &no-frame=true
-    &column=4
-    &margin-w=10
-    &margin-h=10" 
-  />
-</p>
 
 
 ## 👁 Profile Views
