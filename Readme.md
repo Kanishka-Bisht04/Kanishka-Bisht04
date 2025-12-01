@@ -1,5 +1,5 @@
 <!-- ========================================= -->
-<!-- 🌸 DARK PASTEL GIRLY-PRO DEV PROFILE -->
+<!-- 🌸 KANISHKA BISHT — DARK PASTEL DEV PROFILE -->
 <!-- ========================================= -->
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-## 💖 Connect With Me
+## 💌 Connect With Me
 
 <p align="center">
   <a href="mailto:bishtkanishka917@gmail.com">
@@ -28,10 +28,10 @@
 ## 🌷 About Me
 
 - 🎓 Computer Science Engineering student  
-- 💻 Python & C++ enthusiast  
+- 💻 Python, C++ & SQL enthusiast  
 - 📊 Exploring data science & analytics  
 - 🎤 Built an AI voice assistant (Jarvis)  
-- 🎀 I believe code can be pretty *and* powerful  
+- 🎀 I believe code can be pretty **and** powerful  
 - 🌙 Dreaming of becoming a Data / AI engineer  
 
 ---
@@ -60,43 +60,11 @@
 
 ---
 
-## 🧁 Terminal but Cute™
-
-```bash
-kanishka@pinkbytes:~$ whoami
-Future woman in tech 💻
-
-kanishka@pinkbytes:~$ focus
-Data | Automation | Growth
-
-kanishka@pinkbytes:~$ mood
-Soft but strong 💗
-```
-## 🐍 Contribution Snake (gracefully slithering through bugs)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-</p>
-
-### ⏳ View My GitHub Activity by Year
-<p align="center">
-  <a href="https://github.com/heyitzmeaditya?tab=overview&from=2023-01-01&to=2023-12-31">
-    <img src="https://img.shields.io/badge/2023_Activity-7E57C2?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/heyitzmeaditya?tab=overview&from=2024-01-01&to=2024-12-31">
-    <img src="https://img.shields.io/badge/2024_Activity-42A5F5?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/heyitzmeaditya?tab=overview&from=2025-01-01&to=2025-12-31">
-    <img src="https://img.shields.io/badge/2025_Activity-66BB6A?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 🎀 Project Highlights
 
 • **Jarvis** – AI Voice Assistant  
 • **Library Management System**  
-• **Portfolio Website**
+• **Portfolio Website**  
 
 ---
 
@@ -109,36 +77,55 @@ Soft but strong 💗
 </p>
 
 ---
-## 💗 GitHub Aesthetic Stats
+
+## 💗 GitHub Stats (Cards)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kanishka-Bisht04&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌸 Languages I Use (Card)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishka-Bisht04&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kanishka-Bisht04&theme=dracula&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 💗 GitHub Aesthetic Stats (Backup Badges – Always Work)
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Kanishka-Bisht04?style=for-the-badge&color=F5A7C6&label=Followers" />
   <img src="https://img.shields.io/github/stars/Kanishka-Bisht04?style=for-the-badge&color=CDB4DB&label=Stars" />
+  <img src="https://img.shields.io/badge/Public%20Repos-Check%20Profile-A5B4FC?style=for-the-badge" />
 </p>
-
 
 ---
-
-## 🌸 Languages I Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,html,css,js&theme=light" />
-</p>
-
-
-## 🌙 Coding Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanishka-Bisht04&theme=tokyo-night&hide_border=true" />
-</p>
 
 ## 👁 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kanishka-Bisht04&style=flat-square&color=F5A7C6" />
+  <img src="https://komarev.com/ghpvc/?username=Kanishka-Bisht04&style=flat-square&color=F5A7C6">
 </p>
-
 
 ---
 
 <h2 align="center">💗 Dream in pink. Build in code.</h2>
+
+<!--
+🐍 Contribution Snake (Optional – works only after GitHub Action)
+
+<img src="https://raw.githubusercontent.com/Kanishka-Bisht04/Kanishka-Bisht04/output/github-contribution-grid-snake-dark.svg">
+
+If you want this, ask me and I’ll give you the exact action workflow.
+-->
