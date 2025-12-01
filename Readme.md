@@ -118,6 +118,60 @@ Soft but strong 💗
 
 
 ---
+## 📊 GitHub Analytics — Dark Pastel
+
+### ⚡ Aesthetic Status (Badges that Always Work)
+<p align="center">
+  <img src="https://img.shields.io/badge/🔥_Streak-Active-FF9EC4?style=for-the-badge&labelColor=0F172A&color=CDB4DB"><br/>
+  <img src="https://img.shields.io/badge/⚡_Consistency-High-A5B4FC?style=for-the-badge&labelColor=0F172A&color=8EC5FC"><br/>
+  <img src="https://img.shields.io/badge/🚀_Momentum-Growing-F5A7C6?style=for-the-badge&labelColor=0F172A&color=E879F9">
+</p>
+
+---
+
+## 📈 GitHub Stats (Card)
+<p align="center">
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kanishka-Bisht04&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
+
+<!-- If the card above ever fails on your network, swap src with:
+     https://github-readme-stats.vercel.app/api?username=Kanishka-Bisht04&show_icons=true&theme=tokyonight&hide_border=true
+-->
+
+---
+
+## 🧪 Most Used Languages (Card)
+<p align="center">
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kanishka-Bisht04&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
+
+<!-- Backup if needed:
+     https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishka-Bisht04&layout=compact&theme=tokyonight&hide_border=true
+-->
+
+---
+
+## 🔥 Activity Graph
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Kanishka-Bisht04&theme=tokyo-night&hide_border=true"
+  />
+</p>
+
+<!-- Backup (use only if the graph fails):
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph-git-masterrstaa-rickstaa.vercel.app/graph?username=Kanishka-Bisht04&theme=tokyo-night&hide_border=true"
+  />
+</p>
+-->
+
 
 ## 🌸 Languages I Use
 
