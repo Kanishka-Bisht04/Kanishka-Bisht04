@@ -74,10 +74,20 @@ Soft but strong 💗
 ```
 ## 🐍 Contribution Snake (gracefully slithering through bugs)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/main/assets/github-contribution-grid-snake.svg">
-</p>
+>
 
+### ⏳ View My GitHub Activity by Year
+<p align="center">
+  <a href="https://github.com/heyitzmeaditya?tab=overview&from=2023-01-01&to=2023-12-31">
+    <img src="https://img.shields.io/badge/2023_Activity-7E57C2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/heyitzmeaditya?tab=overview&from=2024-01-01&to=2024-12-31">
+    <img src="https://img.shields.io/badge/2024_Activity-42A5F5?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/heyitzmeaditya?tab=overview&from=2025-01-01&to=2025-12-31">
+    <img src="https://img.shields.io/badge/2025_Activity-66BB6A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
